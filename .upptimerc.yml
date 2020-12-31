@@ -4,16 +4,14 @@ repo: HWHelpNowStatus # Your GitHub repository name
 # e
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Homework Help Now
+    url: https://hwhelpnow.com/
+  - name: Zoho SalesIQ (Live-Chat)
+    url: https://www.zoho.com/salesiq/
+  - name: Firebase Hosting
+    url: https://firebase.google.com/
+  - name: Broken
+    url: http://geeasf.affaf/
 
 status-website:
 
