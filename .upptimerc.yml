@@ -10,8 +10,6 @@ sites:
     url: https://www.zoho.com/salesiq/
   - name: Firebase Hosting
     url: https://firebase.google.com/
-  - name: Broken
-    url: http://geeasf.affaf/
 
 status-website:
 
