@@ -18,7 +18,7 @@ sites:
 status-website:
 
   # Uncomment the following line if you don't have a custom domain and add your repo name
-   baseUrl: /HWHelpNowStatus
+  baseUrl: /HWHelpNowStatus
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Homework Help Now Status
   introTitle: "This is the official status page for hwhelpnow.com"
