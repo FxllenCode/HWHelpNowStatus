@@ -1,7 +1,7 @@
 url: https://firebase.google.com/
-status: up
+status: degraded
 code: 200
-responseTime: 245
-lastUpdated: 2021-01-09T23:21:01.794Z
+responseTime: 261
+lastUpdated: 2021-01-10T01:39:07.085Z
 startTime: Thu Dec 31 2020 19:17:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
