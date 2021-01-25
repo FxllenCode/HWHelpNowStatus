@@ -10,7 +10,6 @@ sites:
     url: https://www.zoho.com/salesiq/
   - name: Firebase Hosting
     url: https://firebase.google.com/
-    maxResponseTime: 5
 
 status-website:
 
