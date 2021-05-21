@@ -4,9 +4,9 @@
     "url": "https://hwhelpnow.com/",
     "icon": "https://favicons.githubusercontent.com/hwhelpnow.com",
     "slug": "homework-help-now",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 101,
     "timeMonth": 136,
     "timeYear": 255,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-21": 0
+    }
   },
   {
     "name": "Zoho SalesIQ (Live-Chat)",
@@ -41,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/firebase.google.com",
     "slug": "firebase-hosting",
     "status": "up",
-    "uptime": "88.79%",
+    "uptime": "88.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.79%",
+    "uptimeYear": "88.84%",
     "time": 443,
     "timeDay": 283,
     "timeWeek": 388,
